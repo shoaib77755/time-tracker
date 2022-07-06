@@ -17,6 +17,7 @@ spec:
       containers:
       - name: nodeserver
         image: shoaib777555/buck:valaxy_demo
+        imagePullPolicy: Always
         ports:
         - containerPort: 3000
         
