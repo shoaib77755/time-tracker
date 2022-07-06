@@ -36,5 +36,3 @@ spec:
     port: 5000
     targetPort: 3000
     nodePort: 31777
-Footer
-© 2022 GitHub, Inc.
