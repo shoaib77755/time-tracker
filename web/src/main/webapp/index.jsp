@@ -16,7 +16,7 @@
     This is my simple example web page on a JSP.
   </p>
     <p>
-    hi there.ready to deploy
+    hi there. kubernetes
   </p>
 </body>
 </html>
