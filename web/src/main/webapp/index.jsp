@@ -16,7 +16,7 @@
     This is my simple example web page on a JSP.
   </p>
     <p>
-    hi there k8s ull be pulled again
+    hi me how are you holding up
   </p>
 </body>
 </html>
