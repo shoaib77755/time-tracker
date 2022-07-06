@@ -16,7 +16,7 @@
     This is my simple example web page on a JSP.
   </p>
     <p>
-    hi there. k8s
+    hi there k8s
   </p>
 </body>
 </html>
