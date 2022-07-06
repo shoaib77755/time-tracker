@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Super Simple my Webpage</title>
+    <title> Super Simple my Webpage </title>
 </head>
 <body>
   <h1>my Simple app Page</h1>
