@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: shoaib777555/buck:latest
+        image: sirlevel/hero:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
